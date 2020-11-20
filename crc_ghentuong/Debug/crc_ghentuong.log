@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  crc_ghentuong.cpp
+D:\C project\crc_ghentuong\crc_ghentuong\crc_ghentuong.cpp(8,8): warning C4293: '>>': shift count negative or too big, undefined behavior
+D:\C project\crc_ghentuong\crc_ghentuong\crc_ghentuong.cpp(25,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  crc_ghentuong.vcxproj -> D:\C project\crc_ghentuong\Debug\crc_ghentuong.exe
